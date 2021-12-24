@@ -4,7 +4,7 @@
 
 ## Installation
 
-Requires Python 3.6 to run.
+Requires Python 3.6+ to run.
 
 Install the dependencies:
 
